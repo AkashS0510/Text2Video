@@ -14,3 +14,8 @@ It utilizes various technologies, including GPT for text summarization, Text-to-
 - Video Generation: Combines audio and images to create a final video.
 
 
+## Demo
+
+https://github.com/AkashS0510/Text2Video/assets/96624761/0623c864-ebfa-4032-ac9d-430a91b3b04a
+
+
